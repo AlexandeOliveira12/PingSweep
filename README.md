@@ -79,9 +79,6 @@ Permite definir quantos pacotes ICMP serão enviados ao alvo.
 - Exportação em JSON
 - Log estruturado
 - Suporte a múltiplos hosts
-- Integração com ferramentas como:
-  - **Postman**
-  - **Burp Suite**
 
 ---
 
