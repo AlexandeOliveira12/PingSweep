@@ -1,0 +1,26 @@
+# Scan results
+*.txt
+*.log
+*.out
+*.xml
+*.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Shell history
+.bash_history
+
+# Python cache (future-proof)
+__pycache__/
+*.pyc
