@@ -90,20 +90,17 @@ Permite definir quantos pacotes ICMP serão enviados ao alvo.
 - https://nmap.org/book/man.html
 - https://linux.die.net/man/8/ping
 
----
 
 ## 🚨 AVISO
 
 > ⚠️Este projeto deverá ser utilizado **Apenas para fins educacionais e éticos**.
 
----
 
 ## 👨‍💻 Autor
 
 **Alexandre Oliveira**  
 Pentest | Cybersecurity | Bash | Linux  
 
----
 
 ## License / Licença
 
