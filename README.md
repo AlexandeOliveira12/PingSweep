@@ -88,7 +88,7 @@ Permite definir quantos pacotes ICMP serão enviados ao alvo.
 ## 👨‍💻 Autor
 
 **Alexandre Oliveira**  
-Pentest | Cybersecurity | Bash | Linux  
+Pentester | Cybersecurity Analyst 
 
 
 ## License / Licença
