@@ -74,14 +74,6 @@ Permite definir quantos pacotes ICMP serão enviados ao alvo.
 
 ---
 
-## 📈 Futuras Melhorias
-
-- Exportação em JSON
-- Log estruturado
-- Suporte a múltiplos hosts
-
----
-
 ## 📚 Referências
 
 - https://nmap.org/book/man.html
