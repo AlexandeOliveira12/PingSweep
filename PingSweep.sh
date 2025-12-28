@@ -12,14 +12,14 @@ then
     echo -e "$azul Exemplo: $0 192.168.0.1 $reset"
     echo
 else
-    echo -e "$azul
+    echo -e '$azul
     __________.__                   _________
     \______   \__| ____    ____    /   _____/_  _  __ ____   ____ ______
      |     ___/  |/    \  / ___\   \_____  \\ \/ \/ // __ \_/ __ \\____ \
      |    |   |  |   |  \/ /_/  >  /        \\     /\  ___/\  ___/|  |_> >
      |____|   |__|___|  /\___  /  /_______  / \/\_/  \___  >\___  >   __/
                          \//_____/           \/             \/     \/|__|
-    $reset"
+    $reset'
     echo
     echo -e "$azul Gostaria de Fazer um Teste mais Rapido?$reset ($verde s $reset/$vermelho n $reset)"
     read velocidade
