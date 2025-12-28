@@ -1,15 +1,17 @@
 #!/bin/bash
+
+azul="\e[34m"
+verde="\e[32m"
+vermelho="\e[31m"
+reset="\e[0m"
+
 if [ -z "$1"];
 then
-    echo "PING SWEEP"
-    echo "Modo de uso: $0 IP"
-    echo "Exemplo: $0 192.168.0.1"
+    echo -e "$azul PING SWEEP $reset"
+    echo -e "$azul Modo de uso: $0 IP $reset"
+    echo -e "$azul Exemplo: $0 192.168.0.1 $reset"
     echo
 else
-    azul="\e[34m"
-    verde="\e[32m"
-    vermelho="\e[31m"
-    reset="\e[0m"
     echo -e "$azul
     __________.__                   _________
     \______   \__| ____    ____    /   _____/_  _  __ ____   ____ ______
