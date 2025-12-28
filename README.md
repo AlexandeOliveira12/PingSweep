@@ -74,17 +74,6 @@ Permite definir quantos pacotes ICMP serão enviados ao alvo.
 
 ---
 
-## 📈 Futuras Melhorias
-
-- Exportação em JSON
-- Log estruturado
-- Suporte a múltiplos hosts
-- Integração com ferramentas como:
-  - **Postman**
-  - **Burp Suite**
-
----
-
 ## 📚 Referências
 
 - https://nmap.org/book/man.html
@@ -99,7 +88,7 @@ Permite definir quantos pacotes ICMP serão enviados ao alvo.
 ## 👨‍💻 Autor
 
 **Alexandre Oliveira**  
-Pentest | Cybersecurity | Bash | Linux  
+Pentester | Cybersecurity Analyst 
 
 
 ## License / Licença
